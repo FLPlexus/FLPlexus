@@ -53,7 +53,7 @@ Soy programador **Front-End** con amplia experiencia en **Angular** (todas sus v
 
 ## 📫 Contacto
 
-- GitHub: [github.com/tu-usuario](https://github.com/FLPlexus)  
+- GitHub: [github.com/FLPlexus](https://github.com/FLPlexus)  
 - Email: flmatamoros@gmail.com
 
 ---
