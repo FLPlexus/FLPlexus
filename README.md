@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco
 
-<!--
-**FLPlexus/FLPlexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | Angular Specialist | Plexus
 
-Here are some ideas to get you started:
+Soy programador **Front-End** con amplia experiencia en **Angular** (todas sus versiones), apasionado por la arquitectura modular, la mantenibilidad y las buenas prácticas. Actualmente trabajo en **Plexus**, donde diseño soluciones escalables y modernas para aplicaciones web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías principales
+
+- **Frameworks Frontend**
+  - Angular (v2 → v17, Signals, RxJS, NgRx/Elf Store, State Management)
+  - React (Hooks, Context API, Redux básico)
+
+- **Lenguajes**
+  - TypeScript (tipado avanzado, genéricos, utilidades)
+  - JavaScript (ES6+)
+  - Java (Spring Boot básico, APIs REST)
+
+- **Herramientas y librerías**
+  - RxJS, Angular Signals
+  - PrimeNG, Material UI
+  - HTML5, CSS3, SCSS
+  - Webpack, Vite
+  - Jest, Jasmine, Karma (testing)
+
+- **DevOps & Otros**
+  - Git & GitHub
+  - CI/CD básico
+  - Docker (entornos de desarrollo)
+  - Node.js (scripts y utilidades)
+
+---
+
+## 🏢 Experiencia
+
+- **Plexus Tech**  
+  Desarrollo de aplicaciones empresariales con Angular, integración de librerías modernas y optimización de rendimiento.  
+  - Modularización de stores por feature  
+  - Implementación de SignalStore y Elf Store  
+  - Responsive UI con RxJS y Angular Signals  
+
+---
+
+## 📈 Intereses
+
+- Arquitectura limpia y mantenible  
+- Mejora continua en **state management**  
+- Exploración de nuevas herramientas front-end  
+- Compatibilidad y optimización en hardware/software  
+
+---
+
+## 📫 Contacto
+
+- GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)  
+- LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)  
+- Email: tu-email@ejemplo.com  
+
+---
+
+✨ *“El código limpio no es solo para que funcione hoy, sino para que se entienda mañana.”*
