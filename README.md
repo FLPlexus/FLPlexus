@@ -9,7 +9,7 @@ Soy programador **Front-End** con amplia experiencia en **Angular** (todas sus v
 ## 🚀 Tecnologías principales
 
 - **Frameworks Frontend**
-  - Angular (v2 → v17, Signals, RxJS, NgRx/Elf Store, State Management)
+  - Angular (v2 → vXX, Signals, RxJS, NgRx/Elf Store, State Management)
   - React (Hooks, Context API, Redux básico)
 
 - **Lenguajes**
